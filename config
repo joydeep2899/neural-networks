@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	url = https://github.com/joydeep2899/neural-networks.git
+	fetch = +refs/heads/*:refs/remotes/origin/*

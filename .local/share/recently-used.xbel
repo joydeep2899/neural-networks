@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/joydeep/nn/cnn.py" added="2019-07-20T16:21:20Z" modified="2019-07-20T16:26:08Z" visited="2019-07-20T16:21:20Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;org.gnome.gedit %u&apos;" modified="2019-07-20T16:26:08Z" count="10"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/joydeep/Downloads/Compressed/pycharm-community-2019.1.3/Install-Linux-tar.txt" added="2019-07-20T17:03:02Z" modified="2019-07-20T17:03:02Z" visited="2019-07-20T17:03:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;org.gnome.gedit %u&apos;" modified="2019-07-20T17:03:02Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/joydeep/pycharm-community-2019.1.3/build.txt" added="2019-07-20T17:04:43Z" modified="2019-07-20T17:04:43Z" visited="2019-07-20T17:04:43Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;org.gnome.gedit %u&apos;" modified="2019-07-20T17:04:43Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
